@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PendantLib")(type "KiCad")(uri "D:/Hardware/Nixie-Pendant/PendantLib.pretty")(options "")(descr ""))
+)

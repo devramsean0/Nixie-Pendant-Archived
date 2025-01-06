@@ -21,4 +21,5 @@ This is in order of closest to tube
 
 ## Folder Layout
 - `bms/` - Board files for the BMS (Battery Management System), handles lipo charging and safe discharge, usb & battery cutover and power regulation to the LV rail
+- `socket/` - My bootleg IN-16 socket, very simple. just pads and holes. but like, this should hold the tube in (probably)
 - `PendantLib.pretty/` - Shared part footprints

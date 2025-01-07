@@ -1,4 +1,4 @@
-![Plain Nixie Pendant Logo](https://github.com/user-attachments/assets/538091d9-3856-4dc7-a6c1-e9d71c625f2d)
+![Github Nixie Pendant Logo(1)](https://github.com/user-attachments/assets/1f107c65-62ae-43fd-a9b0-63bc3d3a85bb)
 
 A DIY, wearable pendant made from an IN-16 and quite a few boards
 
